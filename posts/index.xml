@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on blog.arus.me</title><link>https://blog.arus.me/posts/</link><description>Recent content in Posts on blog.arus.me</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 02 Jan 2022 00:00:00 +0900</lastBuildDate><atom:link href="https://blog.arus.me/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>2022年の抱負</title><link>https://blog.arus.me/posts/set-2022-goal/</link><pubDate>Sun, 02 Jan 2022 00:00:00 +0900</pubDate><guid>https://blog.arus.me/posts/set-2022-goal/</guid><description>あけましておめでとうございます。今年も頑張っていきたいです。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on blog.arus.me</title><link>https://blog.arus.me/posts/</link><description>Recent content in Posts on blog.arus.me</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0900</lastBuildDate><atom:link href="https://blog.arus.me/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>2022年の振り返りと2023年の目標</title><link>https://blog.arus.me/posts/retro-2022/</link><pubDate>Mon, 02 Jan 2023 00:00:00 +0900</pubDate><guid>https://blog.arus.me/posts/retro-2022/</guid><description>あけましておめでとうございます。
+昨年の振り返りと今年の目標設定です。
+振り返り 昨年1月に設定した目標は以下でした
+仕事面 - 職務経歴書を書いて、転職を検討してみる 趣味面 - リアルイベントに参加する 仕事&amp;amp;趣味面 - V関連の個人開発のWebサービスを一つリリースする それぞれ見ていきます。
+趣味面 - リアルイベントに参加する まず最初に達成したのがこれです。 7月にピーナッツくんのウォクスタライブの大阪会場に参戦しました。
+久しぶりの遠征でめっちゃくちゃ楽しかったです。 ぽこピーのチェキ会できぐるみは見てたり、オンラインライブで歌ってるところは見てたりしたんですが、 リアルライブは初めてで最高でした。
+今年はすいちゃんこと星街すいせいちゃんの2ndワンマンの参戦をすでに決めてるんですが、積極的にリアルイベントは参加していきたいですね。
+仕事面 - 職務経歴書を書いて、転職を検討してみる 次にこれも達成しました。 職務経歴書を書いて、各求人サイトに登録して、色々スカウトもらいながらも腰が重くてうーんってやってたんですが、 上で書いたピーナッツくんのウォクスタライブでかなり&amp;quot;やるぞ&amp;quot;って気持ちがグググッと高まって、 遠征からの帰りの飛行機の中でエイッと条件がよくて気になってたスカウトにカジュアル面談の応募をしました。
+カジュアル面談でお話を聞いて、よりいいなーと思って応募、面接を3度パスして無事内定をいただき、 11月から新たな職場で働いています。
+アジャイル開発だったり、フレームワークだったり、リモートワークだったり、 別部署との会議だったり、経験のないことばかりで大変ですがすごく楽しくできています。
+会社の規模が大きくなって、待遇も良くなりましたし頑張ります💪
+仕事&amp;amp;趣味面 - V関連の個人開発のWebサービスを一つリリースする これは達成できていないですね 転職でバタついててなかなか趣味のコードは書く時間が取れず… って感じですね
+今年の目標設定 今年の目標はこれです
+新たな職場に慣れる 一人暮らしを始める 趣味のコードを書く時間をとる 1. 新たな職場に慣れる 入社から2ヶ月経過しましたが、なれないことばかりでまだ1人前とは言い難い状況なので、 まずは職場でしっかり1人前に馴染めるように頑張っていきたいと思います。
+業種が全く違うのでドメイン知識みたいなものもしっかり吸収していきたいですね。 +要件を決める会議にも参加するようになったので、Biz側の意識だったり、 会議での立ち回りだったりをうまくできるようになりたいなと思います。
+2.一人暮らしを始める 以前から一人暮らしをやってみたいなと思っていたので、 今年中に始めたいなと思っています。</description></item><item><title>2022年の抱負</title><link>https://blog.arus.me/posts/set-2022-goal/</link><pubDate>Sun, 02 Jan 2022 00:00:00 +0900</pubDate><guid>https://blog.arus.me/posts/set-2022-goal/</guid><description>あけましておめでとうございます。今年も頑張っていきたいです。
 自分自身で意識するためにも今年の目標を書いておきたいと思います。
 仕事面 - 職務経歴書を書いて、転職を検討してみる 未経験から現在の会社にプログラマーとして入社して、今年で三年目になり、社内では一人前として動けているという自身はありますが、小さい会社ということもあり、自分自身の実力がどの程度かよくわからないという悩みを抱えています。
 そこで、今年は一度転職活動をしてみて、他社との比較をしてみたいなと考えています。実力不足で門前払いとかだったら正直めちゃくちゃ凹みますが、不足していることがわかるだけでも十分収穫だと思うので、覚悟を決めて職務経歴書を書きたいなとおもいます。
@@ -6,4 +21,4 @@
 コロナの感染拡大時にはほぼオンライン開催に移行していたVのライブも、最近はリアルと同時開催という形で開催されることも増えているので、情勢を見つつチャンスがあればリアルで参加でしたいなと思っています。
 仕事&amp;amp;趣味面 - V関連の個人開発のWebサービスを一つリリースする Webサービスを0から構築した経験はまだないので、1回経験しておきたいなと想っています。
 せっかくなので、趣味を絡めて自分自身が欲しい物を作ってしまいたいなと。
-まだ何も決めてませんが、なんとなくVの楽曲を作業用BGM的に再生するページとか自分も使えて、布教にも貢献できていいかなとかうっすらと考えています。</description></item><item><title>My First Post</title><link>https://blog.arus.me/posts/my-first-post/</link><pubDate>Fri, 24 Dec 2021 10:53:14 +0900</pubDate><guid>https://blog.arus.me/posts/my-first-post/</guid><description/></item></channel></rss>
+まだ何も決めてませんが、なんとなくVの楽曲を作業用BGM的に再生するページとか自分も使えて、布教にも貢献できていいかなとかうっすらと考えています。</description></item></channel></rss>
